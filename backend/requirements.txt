@@ -1,0 +1,11 @@
+pandas
+numpy
+tensorflow==2.15
+matplotlib
+fastapi
+uvicorn
+python-multipart
+pillow
+opencv-python
+transformers
+torch
